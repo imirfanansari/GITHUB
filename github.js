@@ -44,8 +44,43 @@ console.log("a===b",a===b);
  let b=6;
 
  console.log(a&&b);
- console.log(a/b);
+ console.log(a||b);
 }
+
+{
+    // conditional statement
+    // if statement
+}
+    let age = 19;
+     if (age=>18) {
+console.log("you can vote");
+    }
+    
+        if (age<18)  {
+            console.log("you connot vote");
+        }
+        
+        // example of if conditon
+
+        let mode ="light";
+        let color;
+
+        if (mode==="dark") {
+            color="black";
+        }
+
+        if(mode ==="light" ) {
+
+            color="white";
+        }
+        console.log(color);
+
+    
+
+    
+
+
+
 
  
  
