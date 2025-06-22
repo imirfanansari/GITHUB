@@ -16,7 +16,8 @@ console.log("c", c);
 }
 
 {
-    // data type in js.
+    /* data type in js.
+    Assignment operators*/
 let a=5;
 let b=6;
 console.log("a+b", a+b);
@@ -26,7 +27,25 @@ console.log("a/b",a/b);
 console.log("a**b",a**b);
 }
 
+{
+// comparson operators.
+let a=5;
+let b=6;
+console.log("a==b",a==b);
+console.log("a!=b",a!=b);
+console.log("a>=b",a>=b);
+console.log("a<=b",a<=b);
+console.log("a===b",a===b);
+ }
 
+{
+       // logic operators.
+    let a=5;
+ let b=6;
 
+ console.log(a&&b);
+ console.log(a/b);
+}
 
-
+ 
+ 
